@@ -1,8 +1,10 @@
-const { Client, GatewayIntentBits, REST, Routes, SlashCommandBuilder, EmbedBuilder, ActionRowBuilder, TextInputBuilder, ModalBuilder, TextInputStyle, ButtonBuilder, ButtonStyle } = require('discord.js');
-const { token, jailRoleId, jailReportChannelId, serverid, adminRoleId } = require('./config.js');
-const { QuickDB } = require('quick.db');
-const db = new QuickDB();
-const client = new Client({ intents: [GatewayIntentBits.Guilds] });
+const { //////////// } = require('discord.js');
+
+module.exports = {
+    name: 'سجن',
+    description: "///////////.",
+    type: ApplicationCommandType.ChatInput,
+    run: async (client, interaction) => {
 
 client.once('ready', async () => {
     console.log(`${client.user.tag} is online!`);
