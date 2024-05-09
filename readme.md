@@ -43,7 +43,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 5. Open a Pull Request.
 
 ## Support
-Join us at our Discord server for support and community discussions : [discord.gg/wicks](https://discord.gg/mixs).
+Join us at our Discord server for support and community discussions : [discord.gg/mixs](https://discord.gg/mixs).
 
 ## License
 This project is licensed under [MIT License](LICENSE). See the LICENSE file for more details.
