@@ -13,7 +13,7 @@ This Discord bot, developed by Wick Studio, offers an innovative solution for ma
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/wickstudio/jail-discord-bot.git
+   git clone https://github.com/mixs/jail-discord-bot.git
    cd jail-discord-bot
    ```
 2. **Install Dependencies**
@@ -43,21 +43,14 @@ We welcome contributions from the community! If you'd like to contribute to the 
 5. Open a Pull Request.
 
 ## Support
-Join us at our Discord server for support and community discussions : [discord.gg/wicks](https://discord.gg/wicks).
+Join us at our Discord server for support and community discussions : [discord.gg/wicks](https://discord.gg/mixs).
 
 ## License
 This project is licensed under [MIT License](LICENSE). See the LICENSE file for more details.
 
 ## Acknowledgements
-- Code by Wick Studio
+- Code by A-1
 - Discord.js Library
 
 ## Contact
 
-- Email : info@wickdev.xyz
-
-- Website : https://wickdev.xyz
-
-- Discord : https://discord.gg/wicks
-
-- Youtube : https://www.youtube.com/@wick_studio
